@@ -33,6 +33,14 @@ public class TrabajandoConVariables {
         
         var miVariableCadena2 = "Inferencia de datos";
         // atajo soutv
-        System.out.println("miVariableCadena2 = " + miVariableCadena2);         
+        System.out.println("miVariableCadena2 = " + miVariableCadena2);
+        
+        //EJEMPLO PARA DEFINIR VARIABLES EN JAVA
+        var miVariable = 1;
+        System.out.println("miVariable = " + miVariable);
+        var _miVariable = 2;
+        System.out.println("_miVariable = " + _miVariable);
+        var $miVariable = 3;
+        System.out.println("$miVariable = " + $miVariable);
     }
 }
