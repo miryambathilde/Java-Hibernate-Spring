@@ -33,5 +33,6 @@ public class ConversionTiposPrimitivos {
         System.out.println("Proporciona un caracter: ");
         caracter = consola.nextLine().charAt(0);
         System.out.println("caracter = " + caracter);
+        
     }
 }
