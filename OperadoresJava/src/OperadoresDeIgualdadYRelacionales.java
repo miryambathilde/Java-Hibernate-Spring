@@ -42,11 +42,10 @@ public class OperadoresDeIgualdadYRelacionales {
         var adulto = 18;
 
         if (edad >= adulto) {
-            System.out.println("Es adulto");
+            System.out.println("Es adulto"); // como edad es 30 imprime es adulto
         } else {
             System.out.println("Es menor de edad");
         }
-
     }
 
 }
