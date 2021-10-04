@@ -36,8 +36,8 @@ public class OperadoresUnarios {
             // 2. POSTDECREMENTO (simbolo despues de la variable)
             var k = 4;
             var l = k--; //primero se utiliza el valor de la variable y despues se decrementa (queda un decremento pendiente)
-            System.out.println("k = " + k);
-            System.out.println("l = " + l);
+            System.out.println("k = " + k); // 3 - imprime 3 porque tenia un decremento pendiente
+            System.out.println("l = " + l); // 4
             
         }
 
