@@ -13,7 +13,7 @@ public class PrecedenciaDeOperadores {
         var resultado = 4 + 5 * 6 / 3; // 4 + ((5*6)/3): 30/3= 10+4
         System.out.println("resultado = " + resultado); // 14
         
-        resultado = (4 + 5) * 6 / 3;
-        System.out.println("resultado = " + resultado);
+        resultado = (4 + 5) * 6 / 3; // primero ejecuta la suma porque el parentesis le da la precedencia
+        System.out.println("resultado = " + resultado); //18
     }
 }
