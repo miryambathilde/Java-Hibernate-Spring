@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a852eee-c8f9-49ed-9a76-84d9cdd7ff3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bucles/src/Bucles/EtiquestasLabels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreacionDeClases/CreacionDeClases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreacionDeClases/src/Clases/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreacionDeClases/src/Clases/PruebaPersona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bucles/src/Bucles/BreakAndContinueWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bucles/src/Bucles/BreakAndContinueWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bucles/src/Bucles/DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bucles/src/Bucles/DoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bucles/src/Bucles/For.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bucles/src/Bucles/For.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +44,10 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.EtiquestasLabels">
+  <component name="RunManager" selected="Application.PruebaPersona">
     <configuration name="BreakAndContinueWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bucles.BreakAndContinueWords" />
       <module name="Bucles" />
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bucles.While" />
-      <module name="Bucles" />
+    <configuration name="PruebaPersona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clases.PruebaPersona" />
+      <module name="CreacionDeClases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bucles.*" />
+          <option name="PATTERN" value="Clases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PruebaPersona" />
         <item itemvalue="Application.EtiquestasLabels" />
         <item itemvalue="Application.BreakAndContinueWords" />
         <item itemvalue="Application.For" />
         <item itemvalue="Application.DoWhile" />
-        <item itemvalue="Application.While" />
       </list>
     </recent_temporary>
   </component>
