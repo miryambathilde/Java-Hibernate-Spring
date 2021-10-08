@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bucles/Bucles.iml" filepath="$PROJECT_DIR$/Bucles/Bucles.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConversionTiposPrimitivos/ConversionTiposPrimitivos.iml" filepath="$PROJECT_DIR$/ConversionTiposPrimitivos/ConversionTiposPrimitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreacionDeClases/CreacionDeClases.iml" filepath="$PROJECT_DIR$/CreacionDeClases/CreacionDeClases.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Fundamentos.iml" filepath="$PROJECT_DIR$/.idea/Fundamentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/HolaMundoJava/HolaMundoJava.iml" filepath="$PROJECT_DIR$/HolaMundoJava/HolaMundoJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/InferenciaTiposVarConTiposPrimitivos/InferenciaTiposVarConTiposPrimitivos.iml" filepath="$PROJECT_DIR$/InferenciaTiposVarConTiposPrimitivos/InferenciaTiposVarConTiposPrimitivos.iml" />
