@@ -14,3 +14,11 @@
 /OperadoresJava/build/
 /SentenciasDeControl/nbproject/private/
 /SentenciasDeControl/build/
+
+.idea/workspace.xml
+
+Bucles/src/Bucles/DoWhile.java
+
+Bucles/src/Bucles/For.java
+
+out/production/Bucles/Bucles/DoWhile.class
