@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a852eee-c8f9-49ed-9a76-84d9cdd7ff3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreacionDeClases/CreacionDeClases.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreacionDeClases/src/Clases/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreacionDeClases/src/Clases/PruebaPersona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
